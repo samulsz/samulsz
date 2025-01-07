@@ -1,6 +1,6 @@
 
 ## 🚀 Sobre mim
-Olá, atualmente sou um desenvolvedor Java, que atua em Bukkit. Criando plugins, sistemas e APIs para Minecraft!
+Olá, atualmente sou um desenvolvedor Java, que atua em Bukkit/Discord api. Criando plugins, sistemas, APIs para Minecraft e Bots para discord!
 
 
 ## 🛠 Skills
